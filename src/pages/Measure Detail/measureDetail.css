@@ -1,0 +1,7 @@
+._detail{
+    display: flex;
+    flex-wrap: wrap;
+}
+.marleft{
+    margin: 50px;
+}
